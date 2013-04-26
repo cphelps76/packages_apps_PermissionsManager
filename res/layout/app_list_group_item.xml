@@ -25,7 +25,7 @@
         android:layout_weight="1"
         android:gravity="center_vertical"
         android:textSize="16sp"
-        android:textStyle="bold"
+        android:textStyle="normal"
         android:textColor="33b5e5"
         android:padding="2dip" />
 
