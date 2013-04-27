@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <!-- DEMENTED Blue Text -->
+  <color name="demented_blue">#ff33b5e5</color>
+
+</resources>
